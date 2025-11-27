@@ -53,13 +53,10 @@ I'm currently learning and improving the bot every day — expect frequent commi
 
 Contributions, suggestions and stars are very welcome!
 
----
-
 ## License
 
 Distributed under the [MIT License](LICENSE).
 
----
 
 Made with love while learning
 
